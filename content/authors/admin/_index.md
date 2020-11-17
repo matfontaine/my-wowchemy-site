@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mathieu Fontaine
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: RIKEN AIP (Artificial Intelligence Project)
+  url: "https://www.riken.jp/en/research/labs/aip/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include audio signal processing, probabilistic models and machine learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Audio Signal Processing
+- Machine Learning
+- Probability
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Informatics
+    institution: Lorraine University
+    year: 2019
+  - course: Master degree in Applied and Fundamental Mathematics
+    institution: Poitiers University
+    year: 2015
+  - course: BSc in Fundamental Mathematics
+    institution: Rennes I University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,10 +43,10 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MathieuFontai19
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=xDMdhVgAAAAJ&hl=fr
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mathieu.fontaine@riken.jp"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,6 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mathieu Fontaine is a Postdoctoral Researcher in RIKEN institute and Guest at Kyoto University. His interest are mainly audio source separation including speech enhancement, source localization and music source separation using probablistic models as heavy-tailed models.
